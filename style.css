@@ -1,0 +1,81 @@
+*{
+    color: cornflowerblue;
+}
+.Hclass{
+    color: azure;
+    
+}
+.Hclass h1{
+    color: black;
+    text-align: center;
+
+}
+.Hclass p{
+    color: darkgrey;
+    text-align: center;
+}
+
+.Mydiv1{
+    background-color: rgb(255, 255, 255);
+    width:300px;
+    height:600px;
+    max-width:250px;;
+    max-height:200px;
+    border-radius:10px ;
+    border:1px solid blue;
+}
+.Mydiv1 h2{
+    color: black;
+    text-align: left;
+    margin-left:10px;
+    margin-bottom:10px;
+    
+    
+}
+.Mydiv1 p{
+    color: rgb(120, 120, 169);
+    padding: 10px;
+    margin: 10px;
+    font-family: "PT Sans Narrow", serif;
+    font-weight: 400;
+}
+.searchD{
+    height:40px;
+    width:40px;
+    margin-left:10px;
+}
+.Parentdiv{
+    display:flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.Mydiv2{
+    background-color: rgb(255, 255, 255);
+    width:300px;
+    height:600px;
+    max-width:250px;;
+    max-height:200px;
+    border-radius:10px ;
+    border:1px solid blue;
+}
+.Mydiv2 h2{
+    color: black;
+    text-align: left;
+    margin-left:10px;
+    margin-bottom:10px;
+    
+    
+}
+.Mydiv2 p{
+    color: rgb(120, 120, 169);
+    padding: 10px;
+    margin: 10px;
+    font-family: "PT Sans Narrow", serif;
+    font-weight: 400;
+}
+.pharmacyP{
+    height:60px;
+    width:40px;
+    margin-left:10px;
+}
